@@ -4,7 +4,7 @@
 
 
 ALIAS="alias runc='bash ~/.config/runc/C.sh'"
-BASHRC="~/.bashrc"
+BASHRC="$HOME/.bashrc"
 
 # makes config directory for runc, then moves 'C.sh' to said directory.
 mkdir ~/.config/runc
