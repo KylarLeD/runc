@@ -3,7 +3,7 @@
 # This script *should* set everything up for you.
 
 
-ALIAS="alias runc='bash ~/.config/Compilers/C.sh'"
+ALIAS="alias runc='bash ~/.config/runc/C.sh'"
 BASHRC="$HOME/.bashrc"
 
 # makes config directory for runc, then moves 'C.sh' to said directory.
